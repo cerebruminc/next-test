@@ -25,6 +25,7 @@
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "latest",
+    "@types/jest": "^29.5.5",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",

@@ -6,7 +6,7 @@ module.exports = {
   moduleNameMapper: {
     "\\.(css|less|scss)$": "identity-obj-proxy", // Mock CSS modules
   },
-  setupFilesAfterEnv: ["./jest.setup.cjs"],
+  // setupFilesAfterEnv: ["./jest.setup.cjs"],
   transform: {
     "^.+\\.tsx?$": "ts-jest",
   },

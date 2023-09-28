@@ -1,8 +1,8 @@
 // jest.config.js
 module.exports = {
   preset: "ts-jest",
-  testEnvironment: "node",
-  // testEnvironment: "jsdom",
+  // testEnvironment: "node",
+  testEnvironment: "jsdom",
   moduleNameMapper: {
     "\\.(css|less|scss)$": "identity-obj-proxy", // Mock CSS modules
   },
